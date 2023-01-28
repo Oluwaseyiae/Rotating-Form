@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rotating Form Tutorial</title>
+	<link rel="stylesheet"  href="rotate.css">
+</head>
+<body>
+<div class="container">
+	<div class="card">
+		<div class="content" id="card">
+			<div class="front">
+				<h2>REGISTER</h2>
+			<form>
+				<input type="text" class="input-box" placeholder="Name" required="">
+				<input type="email" class="input-box" placeholder="Email ID" required="">
+				<input type="password" class="input-box" placeholder="Password" required="">
+				<button type="submit" class="sub-btn" id="btn">Submit</button>
+				<input type="checkbox" class="box"><span>Remember me</span>
+			</form>
+				<button type="button" class="btn" onclick="openLogin()">I have an account</button>
+			</div>
+			<div class="back">
+				<h2>LOGIN</h2>
+			<form>
+				<input type="email" class="input-box" placeholder="Email ID" required="">
+				<input type="password" class="input-box" placeholder="Password" required="">
+				<button type="submit" class="sub-btn" id="btn">Submit</button>
+				<input type="checkbox" class="box"><span>Remember me</span>
+			</form>
+				<button type="button" class="btn" onclick="openRegister()">I don't have an account</button>
+				<a href="#"><p>Forgot Password?</p></a>
+			</div>
+		    </div>	
+		</div>
+	</div>
+</div>
+	<!-----
+	<div class="container">
+		<div class="inner-box" id="form">
+			<div class="page1">
+				<form>
+					<h3>PERSONAL DETAILS</h3>
+					<input type="text" placeholder="First name" required="">
+					<input type="text" placeholder="Second name" required="">
+					<input type="text" placeholder="Phone number" required="">
+				<div class="btn-box">
+					<button type="button" id="next1" onclick="openSocial()">Next>>></button>
+				</div>
+				</form>
+			</div>
+
+			<div class="page2">
+				<form>
+					<h3>SOCIAL ACCOUNTS</h3>			
+					<input type="text" placeholder="Facebook">
+					<input type="text" placeholder="Twitter">
+					<input type="text" placeholder="Instagram" optional>
+				<div class="btn-box">
+					<button type="button" id="back1 " onclick="openPersonal()">>>>Back</button>
+					<button type="button" id="next2" onclick="openOther()">Next>>></button>
+				</div>
+				</form>
+			</div>
+
+			<div class="page3">
+				<form>	
+					<h3>OTHER DETAILS</h3>		
+					<input type="email" placeholder="Email">
+					<input type="password" placeholder="password">
+					<input type="password" placeholder="Confirm password">
+				<div class="btn-box">
+					<button type="button" id="back2" onclick="openSocial()">>>>Back</button>
+					<button type="submit" id="last">Submit</button>
+				</div>
+				</form>
+			</div>
+    	</div>
+	</div>
+	---->
+<script src="rotate.js"></script>
+</body>
+</html>
