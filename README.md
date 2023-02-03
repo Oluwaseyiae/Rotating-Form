@@ -1,6 +1,6 @@
-<center><h1>Calculator</h1></center>
+<center><h1>Rotating Signup and Signin Form</h1></center>
 
-<h2>A simple calculator with GUI using Tkinter in python.</h2>
+<h2>A simple signup and signin form  made with HTML, CSS and JavaScript</h2>
 
 <br>
 
