@@ -8,15 +8,7 @@ Python offers a lot of options to develop  GUI applications, but Tkinter is the 
 
 The fastest and easiest way of developing GUI applications in python is working with Tkinter. So let’s took a quick look on Tkinter.
 
-<h1>What is Tkinter</h1><br>
 
-The Tkinter module (“Tk interface”) is the standard Python interface to the Tk GUI toolkit.
-
-Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems.
-
-If you work on Linux/Ubuntu then you have to install Tkinter module on your machine for running programs, but on windows you don’t need to install it because it comes with the default python installation.
-
-<br>
 
 <h1>Prerequisite For Python Calculator</h1>
 
