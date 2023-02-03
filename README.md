@@ -4,51 +4,21 @@
 
 <br>
 
-Python offers a lot of options to develop  GUI applications, but Tkinter is the most usable module for developing GUI(Graphical User Interface). Since Tkinter is cross-platform so it works on both windows and Linux. So here i am using Tkinter module to create a simple python calculator.
-
-The fastest and easiest way of developing GUI applications in python is working with Tkinter. So let’s took a quick look on Tkinter.
 
 
 
-<h1>Prerequisite For Python Calculator</h1>
-
-For developing a simple GUI calculator in python you must have to prior knowledge of following –<br>
-
-1. Tkinter<br>
-
-2. Lambda<br>
-
-<br>
 
 
 
-<br><br>
 
-<b>And now we will start writing codes for making this. To create this we have to do four things</b> –<br>
 
-1. Importing Tkinter module<br>
+<p>A login and signup form using HTML and CSS. This form allows users to register.It does not store any information because its only a design with no backend functionality.</p> 
 
-2. Creating the main interface(window for calculator)<br>
+<img alt="preview" src="pic-1.png"><img alt="preview" src="pic-2.png">
 
-3. Adding any number of widgets to the main interface<br>
+<h1>Features</h1>
 
-4. Applying the event trigger on widgets
 
-<br>
-
-<br>
-
-<h1>How to Use</h1>
-
-<p>
-
-1. Clone this repository.<br>
-
-2. Allow execution of the Calculator.py<br>
-
-3. Execute Calculator.py<br>
-
-</p>
 <h1>How to Contribute</h1>
 
 <p>
