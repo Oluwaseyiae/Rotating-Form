@@ -28,19 +28,7 @@ For developing a simple GUI calculator in python you must have to prior knowledg
 
 <br>
 
-<b>On this calculator we can perform following many mathematical calculations</b> –<br>
 
-&#9679 Multiplication
-
-&#9679 Addition
-
-&#9679 Subtraction
-
-&#9679 Division
-
-&#9679 Square
-
-&#9679 Square root
 
 <br><br>
 
