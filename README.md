@@ -18,7 +18,7 @@
 
 <h1>Features</h1>
 <p>
-  1. Rotates 360deg 
+  1. Rotates 360deg <br>
   2. Prompts user to save password
 
 </p>
