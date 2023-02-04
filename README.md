@@ -17,8 +17,11 @@
 <img alt="preview" src="pic-1.png"><img alt="preview" src="pic-2.png">
 
 <h1>Features</h1>
+<p>
+  1. Rotates 360deg 
+  2. Prompts user to save password
 
-
+</p>
 <h1>How to Contribute</h1>
 
 <p>
